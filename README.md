@@ -20,7 +20,7 @@ https://arxiv.org/abs/2312.00858
 https://horseee.github.io/Diffusion_DeepCache
 
 ## Output
-
+![Screenshot 2023-12-06 001508](https://github.com/camenduru/DeepCache-colab/assets/54370274/af8570a9-6d08-41e1-a00e-9dad537c4b66)
 
 ## Sponsor
 https://modelslab.com
