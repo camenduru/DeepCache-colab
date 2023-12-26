@@ -20,7 +20,14 @@ https://arxiv.org/abs/2312.00858
 https://horseee.github.io/Diffusion_DeepCache
 
 ## Output
-![Screenshot 2023-12-06 001508](https://github.com/camenduru/DeepCache-colab/assets/54370274/af8570a9-6d08-41e1-a00e-9dad537c4b66)
+<div align="center">
+  <img src="https://github.com/horseee/Diffusion_DeepCache/blob/master/static/images/example_compress.gif" width="100%" ></img>
+  <br>
+  <em>
+      (Results on Stable Diffusion v1.5. Left: 50 PLMS steps. Right: 2.3x acceleration upon 50 PLMS steps) 
+  </em>
+</div>
+<br>
 
 ## Sponsor
 https://modelslab.com
